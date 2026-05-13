@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial Rounded MT', Arial, sans-serif;
-    background: linear-gradient(135deg, #a3b8e7, #2460e2);
+    background: linear-gradient(135deg, #98addd, #5b7bc0);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,7 +51,7 @@ input[type="email"] {
 
 input[type="text"]:focus,
 input[type="email"]:focus {
-    border: 2px solid #1f65bb;
+    border: 2px solid #60a5fa;
 }
 
 
